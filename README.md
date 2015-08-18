@@ -5,7 +5,7 @@ Guía de estudio de la asignatura Programación Orientada a Objetos
 Destinado a los estudiantes de la carrera Ing. Informática de la Universidad Blas Pascal.
 
 
-:disertante: Ing. César Osimani
+disertante: Ing. César Osimani
 :evento: II Conferencia Latinoamericana de Python en la Ciencia - ScipyConAr 2014
 :fecha: 23 y 24 de octubre de 2014
 
